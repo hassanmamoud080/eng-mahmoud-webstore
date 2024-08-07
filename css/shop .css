@@ -10,6 +10,8 @@ div:hover {
 
 .footer{
     overflow: hidden;
+    margin: 0px !important;
+    margin-top: 40px !important;
 }
 .logo{
     height: 150px;
