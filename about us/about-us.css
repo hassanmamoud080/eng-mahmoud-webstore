@@ -1,0 +1,67 @@
+.title{
+    line-height: 1.5px;
+    text-decoration: dotted !important;
+    color: rgba(112, 68, 68, 0.849);
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+.article{
+    color: red;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.content{
+    width: 700px;
+}
+.photo{
+    height: 500px;
+    width: 700px;
+}
+
+.more-img{
+    width: 600px;
+    float: right;
+}
+.con{
+    border: 1px solid black;
+    width: fit-content;
+    text-decoration: none !important;
+}
+.con:hover{
+    background-color:yellow;
+}
+.fac{
+    width: 30px;
+    height: 25px;
+    color: rgb(15, 15, 236);
+}
+.wat{
+    width: 30px;
+    height: 25px;
+    color: rgb(17, 223, 69);
+}
+.ins{
+    width: 30px;
+    height: 25px;
+}
+.you{
+    width: 30px;
+    height: 25px; 
+}
+.mes{
+    width: 30px;
+    height: 25px;
+}
+.snab{
+    width: 30px;
+    height: 25px;
+}
+.tik{
+    width: 30px;
+    height: 25px;
+}
+[class*="col-12"]{
+    justify-content: center;
+    text-align: center;
+}

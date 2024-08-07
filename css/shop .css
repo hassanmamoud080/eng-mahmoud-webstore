@@ -1,0 +1,214 @@
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div:hover{
+visibility: visible;
+}
+
+.all div :hover{
+    background-color: #eee;
+}
+
+.all div h3:hover{
+    color: rgb(7, 158, 218);
+    font-weight: 700;
+}
+
+body div {
+    /* float : left; */
+    margin: 3px;
+}
+
+.air-pods {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.air-pods-img {
+    width: 250px;
+    height: 100px;
+    margin: 10px;
+}
+
+
+h3 {
+    margin: 20px;
+    font-size: 20px !important;
+}
+
+.buy {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 16px 8px 16px;
+}
+
+
+/*fhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh*/
+.apple-watsh {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.watsh-img {
+    height: 150px;
+}
+
+.camera {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.camera-img {
+    height: 150px;
+}
+
+.mobil {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.mobile-img {
+    height: 150px;
+}
+
+.c {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.cc {
+    height: 200px;
+}
+
+.kotsh {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.kotsh-img {
+    height: 200px;
+}
+
+.shver {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.shver-img {
+    height: 200px;
+}
+
+.remote {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.blender {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.blender-img {
+    height: 300px;
+    width: 200px;
+}
+
+.pp {
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;
+}
+
+.pp-img {
+    height: 200px;
+    width: 300px;
+}
+
+.shoping {
+    width: 600px;
+}
+.Ramadan{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;   
+}
+.Ramadan-img{
+    height: 200px;
+    width: 250px;   
+}
+.shose{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;   
+}
+.shose-img{
+    height: 200px;
+    width: 250px;      
+}
+.rang{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;   
+}
+.rang-img{
+    height: 200px;
+    width: 250px;   
+}
+.airbods{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;  
+}
+.airbods-img{
+    height: 200px;
+    width: 250px;   
+}
+.shose{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;  
+}
+.shose2-img{
+    height: 200px;
+    width: 250px;   
+}
+.shasa{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;     
+}
+.shasa-img{
+    height: 200px;
+    width: 250px; 
+}
+.pop{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px; 
+}
+.pop-img{
+    height: 200px;
+    width: 250px; 
+}
+.domia{
+    border: 1px solid gray;
+    width: 300px;
+    height: 500px;    
+}
+.domia-img{
+    height: 200px;
+    width: 250px; 
+    margin: 10px;
+}
