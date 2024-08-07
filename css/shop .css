@@ -1,17 +1,32 @@
-.all{
+.all {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
-div:hover{
-visibility: visible;
+
+div:hover {
+    visibility: visible;
 }
 
-.all div :hover{
-    background-color: #eee;
+.logo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
 }
 
-.all div h3:hover{
+body {
+    overflow-x: hidden;
+}
+
+footer .col-12 {
+    padding-bottom: 150px;
+}
+
+.all div :hover {
+    /* background-color: #eee; */
+}
+
+.all div h3:hover {
     color: rgb(7, 158, 218);
     font-weight: 700;
 }
@@ -139,76 +154,92 @@ h3 {
 .shoping {
     width: 600px;
 }
-.Ramadan{
+
+.Ramadan {
     border: 1px solid gray;
     width: 300px;
-    height: 500px;   
+    height: 500px;
 }
-.Ramadan-img{
+
+.Ramadan-img {
     height: 200px;
-    width: 250px;   
+    width: 250px;
 }
-.shose{
+
+.shose {
     border: 1px solid gray;
     width: 300px;
-    height: 500px;   
+    height: 500px;
 }
-.shose-img{
+
+.shose-img {
     height: 200px;
-    width: 250px;      
+    width: 250px;
 }
-.rang{
+
+.rang {
     border: 1px solid gray;
     width: 300px;
-    height: 500px;   
+    height: 500px;
 }
-.rang-img{
+
+.rang-img {
     height: 200px;
-    width: 250px;   
+    width: 250px;
 }
-.airbods{
+
+.airbods {
     border: 1px solid gray;
     width: 300px;
-    height: 500px;  
+    height: 500px;
 }
-.airbods-img{
+
+.airbods-img {
     height: 200px;
-    width: 250px;   
+    width: 250px;
 }
-.shose{
+
+.shose {
     border: 1px solid gray;
     width: 300px;
-    height: 500px;  
+    height: 500px;
 }
-.shose2-img{
+
+.shose2-img {
     height: 200px;
-    width: 250px;   
+    width: 250px;
 }
-.shasa{
+
+.shasa {
     border: 1px solid gray;
     width: 300px;
-    height: 500px;     
+    height: 500px;
 }
-.shasa-img{
+
+.shasa-img {
     height: 200px;
-    width: 250px; 
+    width: 250px;
 }
-.pop{
+
+.pop {
     border: 1px solid gray;
     width: 300px;
-    height: 500px; 
+    height: 500px;
 }
-.pop-img{
+
+.pop-img {
     height: 200px;
-    width: 250px; 
+    width: 250px;
 }
-.domia{
+
+.domia {
     border: 1px solid gray;
     width: 300px;
-    height: 500px;    
+    height: 500px;
 }
-.domia-img{
+
+.domia-img {
     height: 200px;
-    width: 250px; 
+    width: 250px;
     margin: 10px;
 }
